@@ -48,3 +48,18 @@ font-family: 'circular', sans-serif;
 color: #212529
 ;
 }
+hr.new2{
+    border: 2px solid red;
+margin-left: 10vh;
+margin-right:10vh ;
+    
+} 
+.card-body1{
+background-color: whitesmoke;
+
+
+}
+.container{
+background-color: white;
+
+}
