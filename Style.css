@@ -1,0 +1,50 @@
+.body
+{
+font: 'circular', sans-serif;
+
+color: white;
+
+}
+
+.card-body{
+
+    background-color: black;
+    font-family: 'circular', sans-serif;
+   
+    
+    height: 75vh;
+}
+
+.card-title{
+    font-weight: 800;
+    font-size: 26px;
+    font-family: 'circular', sans-serif;
+}
+.flex-container{
+
+height: 75vh;
+
+}
+hr.new1{
+border: 1px solid red
+
+
+}
+.sidesection{
+
+font-family:sans-serif ;
+}
+.sidesection.h2{
+
+font-weight: bold;
+font-size: medium;
+
+}
+p.mb-1{
+
+size: 16px;
+font-weight: 400;
+font-family: 'circular', sans-serif;
+color: #212529
+;
+}
